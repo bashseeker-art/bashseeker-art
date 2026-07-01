@@ -64,7 +64,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | 📈 GitHub | 💻 Languages | 📫 Contact |
 |-----------|--------------|-----------|
-| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:**https://www.linkedin.com/in/bashiru-r-6651263a/<br>**Email:** bashseeker@gmail.com |
+| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:** [Click Here](https://www.linkedin.com/in/bashiru-r-6651263a/)<br>**Email:** bashseeker@gmail.com |
 
 ---
 
