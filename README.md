@@ -43,7 +43,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 | Project | Description |Link|
 |---------|-------------|----------|
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project]()
-| 🏠 Network Segmentation | Implementing Subnetting in the Multi | [View Project]()
+| 🏠 Network Segmentation | Implementing Subnetting in the Multi-VM Cybersecurity Lab | [View Project]()
 | 🔐 AD CS | Enterprise Certificate Services |[View Project]()
 | 👥 Active Directory GPO | Secure Group Policy Configuration |[View Project]()
 | ☁ AWS IAM | Identity & Access Management |[View Project]()
