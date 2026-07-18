@@ -23,7 +23,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 # 🛡 Cybersecurity Portfolio
 
-| Domain | Projects | Link
+| Domain | Projects | 
 |---------|----------|
 | 🏠 Lab Infrastructure | Virtual Home Lab |
 | 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM • Azure IAM • Linux IAM |
