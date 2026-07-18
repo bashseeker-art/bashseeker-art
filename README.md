@@ -40,7 +40,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 # ⭐ Featured Projects
 
-| Project | Description | Link |
+| Project | Description | 
 |---------|-------------|
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab |
 | 🔐 AD CS | Enterprise Certificate Services |
