@@ -1,7 +1,7 @@
 
 <!-- ======================= BANNER ======================= -->
 
-<h1 align="center">Hi, I'm Bashiru Raji </h1>
+<h1 align="center">Hi, I'm Bashiru Raji</h1>
 
 <h3 align="center">
 Cybersecurity Analyst | IAM | Cloud Security | Vulnerability Management | Detection Engineering
@@ -23,8 +23,8 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 # 🛡 Cybersecurity Portfolio
 
-| Domain | Projects | 
-|---------|----------|-----------|
+| Domain | Projects |
+|---------|----------|
 | 🏠 Lab Infrastructure | Virtual Home Lab |
 | 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM • Azure IAM • Linux IAM |
 | ☁ Cloud Security | AWS Secure Deployment • Azure Secure Deployment • Prowler |
@@ -40,7 +40,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 # ⭐ Featured Projects
 
-| Project | Description | 
+| Project | Description |
 |---------|-------------|
 | 🏠 Home Lab | Multi-VM Cybersecurity Lab |
 | 🔐 AD CS | Enterprise Certificate Services |
