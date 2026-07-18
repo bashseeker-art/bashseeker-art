@@ -1,10 +1,10 @@
 
 <!-- ======================= BANNER ======================= -->
 
-<h1 align="center">Hi, I'm Bashiru Raji</h1>
+<h1 align="center">Hi, I'm Your Name</h1>
 
 <h3 align="center">
-Cybersecurity/Third Party Risk Analyst | IAM | Cloud Security | Vulnerability Management | Detection Engineering
+Cybersecurity Analyst | IAM | Cloud Security | Vulnerability Management | Detection Engineering
 </h3>
 
 <p align="center">
@@ -17,13 +17,13 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | 👨‍💻 About Me | 🛠 Skills & Technologies |
 |---------------|--------------------------|
-| • Cybersecurity/Third Party Risk Analyst<br>• Identity & Access Management<br>• Cloud Security<br>• Vulnerability Management<br>• Threat Hunting<br>• SIEM & Detection Engineering | **Cloud:** AWS, Azure<br>**IAM:** AD CS, GPO, AWS IAM, Azure IAM, Linux IAM<br>**Security:** Nessus, Qualys, Prowler, Splunk, Wireshark, Nmap<br>**OS:** Windows Server, Ubuntu, Kali Linux<br>**Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, MITRE ATT&CK |
+| • Cybersecurity Analyst<br>• Identity & Access Management<br>• Cloud Security<br>• Vulnerability Management<br>• Threat Hunting<br>• SIEM & Detection Engineering | **Cloud:** AWS, Azure<br>**IAM:** AD CS, GPO, AWS IAM, Azure IAM, Linux IAM<br>**Security:** Nessus, Qualys, Prowler, Splunk, Wireshark, Nmap<br>**OS:** Windows Server, Ubuntu, Kali Linux<br>**Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, MITRE ATT&CK |
 
 ---
 
 # 🛡 Cybersecurity Portfolio
 
-| Domain | Projects | Link |
+| Domain | Projects |
 |---------|----------|
 | 🏠 Lab Infrastructure | Virtual Home Lab |
 | 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM • Azure IAM • Linux IAM |
@@ -40,23 +40,23 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 # ⭐ Featured Projects
 
-| Project | Description |Link|
+| Project | Description |
 |---------|-------------|
-| 🏠 Home Lab | Multi-VM Cybersecurity Lab | [View Project]()
-| 🔐 AD CS | Enterprise Certificate Services |[View Project]()
-| 👥 Active Directory GPO | Secure Group Policy Configuration |[View Project]()
-| ☁ AWS IAM | Identity & Access Management |[View Project]()
-| ☁ Azure IAM | Microsoft Entra Identity |[View Project]()
-| 🐧 Linux IAM | User & Permission Management |[View Project]()
-| 🛡 Nessus | Network Vulnerability Management |[View Project]()
-| 📊 Qualys | Enterprise Vulnerability Management |[View Project]()
-| ☁ Prowler | AWS Cloud Security Assessment |[View Project]()
-| 🎯 Penetration Testing | Network & Web Security Testing |[View Project]()
-| 📈 Splunk SIEM | Detection & Monitoring |[View Project]()
-| 🔎 MITRE ATT&CK | Threat Hunting & Detection |[View Project]()
-| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |[View Project]()
-| 📧 Zphisher | Security Awareness Simulation |[View Project]()
-| 🦠 Malware Analysis | Static & Dynamic Analysis |[View Project]()
+| 🏠 Home Lab | Multi-VM Cybersecurity Lab |
+| 🔐 AD CS | Enterprise Certificate Services |
+| 👥 Active Directory GPO | Secure Group Policy Configuration |
+| ☁ AWS IAM | Identity & Access Management |
+| ☁ Azure IAM | Microsoft Entra Identity |
+| 🐧 Linux IAM | User & Permission Management |
+| 🛡 Nessus | Network Vulnerability Management |
+| 📊 Qualys | Enterprise Vulnerability Management |
+| ☁ Prowler | AWS Cloud Security Assessment |
+| 🎯 Penetration Testing | Network & Web Security Testing |
+| 📈 Splunk SIEM | Detection & Monitoring |
+| 🔎 MITRE ATT&CK | Threat Hunting & Detection |
+| 📑 Framework Mapping | NIST CSF • ISO 27001 • CIS Controls |
+| 📧 Zphisher | Security Awareness Simulation |
+| 🦠 Malware Analysis | Static & Dynamic Analysis |
 
 ---
 
@@ -64,7 +64,7 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | 📈 GitHub | 💻 Languages | 📫 Contact |
 |-----------|--------------|-----------|
-| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:** [Click Here](https://www.linkedin.com/in/bashiru-r-6651263a/)<br>**Email:** bashseeker@gmail.com |
+| *(GitHub Stats Card Here)* | PowerShell<br>Python<br>Bash | **LinkedIn:** https://linkedin.com/in/your-profile<br>**Email:** your@email.com |
 
 ---
 
@@ -72,5 +72,4 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 ⭐ **If you find any of my projects useful, consider giving them a star!**
 ```
-
 
