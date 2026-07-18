@@ -25,8 +25,8 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 
 | Domain | Projects |
 |---------|----------|
-| 🏠 Lab Infrastructure | Virtual Home Lab |[View Project]()
-| 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM • Azure IAM • Linux IAM |[View Project]()
+| 🏠 Lab Infrastructure | Virtual Home Lab |
+| 🔐 Identity & Access Management | Active Directory GPO • AD CS • AWS IAM • Azure IAM • Linux IAM |
 | ☁ Cloud Security | AWS Secure Deployment • Azure Secure Deployment • Prowler |
 | 🛡 Vulnerability Management | Nessus • Qualys VMDR • Patch Management |
 | 🚨 Detection & Monitoring | Splunk SIEM • Log Analysis |
