@@ -14,6 +14,18 @@ Building secure enterprise environments through hands-on cybersecurity projects.
 ---
 
 ## 👨‍💻 About Me | 🛠 Skills & Certifications
+I am a Cybersecurity Analyst with hands-on experience designing, securing, and assessing enterprise and cloud environments. My work spans Identity & Access Management (IAM), Cloud Security, Vulnerability Management, Detection Engineering, Penetration Testing, and Governance, Risk & Compliance (GRC).
+I enjoy building practical security solutions rather than relying solely on theory. My portfolio includes projects involving Active Directory, Active Directory Certificate Services (AD CS), AWS IAM, Azure IAM, Linux Identity Management, Cloud Security Assessments with Prowler, Enterprise Vulnerability Management using Nessus and Qualys, Splunk SIEM, MITRE ATT&CK threat hunting, malware analysis, AI security, and API security.
+I am passionate about continuous learning and documenting real-world cybersecurity implementations that demonstrate secure-by-design principles and operational best practices.
+Core Areas of Interest
+• Identity & Access Management (IAM)
+• Cloud Security (AWS & Azure)
+• Vulnerability Management
+• Detection Engineering & SIEM
+• Threat Hunting
+• AI & API Security
+• Governance, Risk & Compliance
+• Security Automation with Python|
 
 | 👨‍💻 About Me | 🛠 Skills & Technologies |
 |---------------|--------------------------|
