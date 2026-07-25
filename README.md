@@ -54,7 +54,7 @@ Core Areas of Interest
 
 | Project | Description |Link|
 |---------|-------------|----------|
-| 🏠 Home Lab | Building a Multi-VM Cybersecurity Lab | [View Repo](https://github.com/bashseeker-art/bashseeker_art)
+| 🏠 Home Lab | Building a Multi-VM Cybersecurity Lab | [View Repo](https://github.com/bashseeker-art/Virtual-Lab-Environment-Setup/blob/main/README.md)
 | 🏠 Network Segmentation | Implementing Subnetting in the Multi-VM Cybersecurity Lab | [View Repo](https://github.com/bashseeker-art/Bashseeker/blob/main/README.md)
 | 🔐 AD CS | Enterprise Certificate Services |[View Project]()
 | 👥 Active Directory GPO | Secure Group Policy Configuration |[View Project]()
