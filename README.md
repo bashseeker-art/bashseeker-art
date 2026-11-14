@@ -30,7 +30,33 @@ Core Areas of Interest
 | 👨‍💻 About Me | 🛠 Skills & Technologies |
 |---------------|--------------------------|
 |• Third-Party Risk Analyst<br> • Cybersecurity Analyst<br>• Identity & Access Management<br>• Cloud Security<br>• Vulnerability Management<br>• Threat Hunting<br>• SIEM & Detection Engineering |**Cloud:** AWS, Azure<br>**IAM:** AD CS, GPO, AWS IAM, Azure IAM, Linux IAM<br>**Security:** Nessus, Qualys, Prowler, Splunk, Wireshark, Nmap<br>**OS:** Windows Server, Ubuntu, Kali Linux<br>**Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, MITRE ATT&CK |
+## Practical experience | Halisans 
 
+**Role:** [Actual role / mentee pathway]  
+**Period:** [Month YYYY – Present / End date]  
+**Environment:** [Training lab / supervised internal operations / production, as applicable]
+
+**Selected responsibilities (retain only those personally completed):**
+
+- Authentication Alert Investigation: Investigate Windows 4624/4625/4770 events with KQL and document conclusions.
+- Defender Endpoint Triage: Review endpoint alerts, collect permitted evidence, determine disposition and escalation.
+- Sentinel Automation Playbook: Document incident-created triggers, ownership routing, testing and safeguards.
+- SOC Monitoring Dashboard: Create workbook queries, explain metrics and record validation results.
+
+
+**Impact highlights:**
+- [Action] across [verified scope] resulting in [verified outcome].
+- Produced [specific sanitized deliverable] reviewed by [role, if approved for disclosure].
+- Improved [process/control] by [measured or observable result].
+
+## Featured case studies
+
+| Case study | What the reviewer will learn |
+|---|---|
+| [Authentication Alert Investigation](./case-studies/01-authentication-alert-investigation/README.md) | Investigate Windows 4624/4625/4770 events with KQL and document conclusions. |
+| [Defender Endpoint Triage](./case-studies/02-defender-endpoint-triage/README.md) | Review endpoint alerts, collect permitted evidence, determine disposition and escalation. |
+| [Sentinel Automation Playbook](./case-studies/03-sentinel-automation-playbook/README.md) | Document incident-created triggers, ownership routing, testing and safeguards. |
+| [SOC Monitoring Dashboard](./case-studies/04-soc-monitoring-dashboard/README.md) | Create workbook queries, explain metrics and record validation results. |
 ---
 
 # 🛡 Cybersecurity Portfolio
