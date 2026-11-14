@@ -30,7 +30,7 @@ Core Areas of Interest
 | 👨‍💻 About Me | 🛠 Skills & Technologies |
 |---------------|--------------------------|
 |• Third-Party Risk Analyst<br> • Cybersecurity Analyst<br>• Identity & Access Management<br>• Cloud Security<br>• Vulnerability Management<br>• Threat Hunting<br>• SIEM & Detection Engineering |**Cloud:** AWS, Azure<br>**IAM:** AD CS, GPO, AWS IAM, Azure IAM, Linux IAM<br>**Security:** Nessus, Qualys, Prowler, Splunk, Wireshark, Nmap<br>**OS:** Windows Server, Ubuntu, Kali Linux<br>**Frameworks:** NIST CSF, NIST SP 800-53, ISO 27001, MITRE ATT&CK |
-## Practical experience | A&H Securit Services LLC 
+## Practical experience | A&H Security Services LLC 
 
 **Role:** [Third Party Risk & GRC Analyst]  
 **Period:** [June 2024 – Present]  
