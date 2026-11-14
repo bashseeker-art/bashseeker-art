@@ -36,7 +36,7 @@ Core Areas of Interest
 **Period:** [June 2024 – Present]  
 **Environment:** [Training lab / supervised internal operations / production, as applicable]
 
-**Selected responsibilities (retain only those personally completed):**
+**Selected responsibilities:**
 
 - Authentication Alert Investigation: Investigate Windows 4624/4625/4770 events with KQL and document conclusions.
 - Defender Endpoint Triage: Review endpoint alerts, collect permitted evidence, determine disposition and escalation.
